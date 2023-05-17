@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="windows-1251" ?>
-<string_table>
 	<string id="trade_dialog_sidor_0">
 		<text>Мені потрібне якесь спорядження.</text>
 	</string>
@@ -3238,4 +3236,3 @@
 	<string id="ara_exo_dialog_done_3">
 		<text>Вахтанг слова завжди тримає. Бері екза, зовсім новий, красень будеш.</text>
 	</string>
-</string_table>
