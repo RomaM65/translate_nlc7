@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="Clear">
-		<text>ясная</text>
+		<text>ясна</text>
 	</string>
 	<string id="Cloudy">
-		<text>облачная</text>
+		<text>хмарна</text>
 	</string>
 	<string id="Default">
-		<text>средние</text>
+		<text>середні</text>
 	</string>
 	<string id="Extreme">
-		<text>максимальные</text>
+		<text>максимальні</text>
 	</string>
 	<string id="gd_master">
-		<text>мастер</text>
+		<text>майстер</text>
 	</string>
 	<string id="gd_novice">
-		<text>новичок</text>
+		<text>новачок</text>
 	</string>
 	<string id="gd_stalker">
-		<text>опытный</text>
+		<text>досвідчений</text>
 	</string>
 	<string id="gd_veteran">
 		<text>ветеран</text>
 	</string>
 	<string id="High">
-		<text>высокие</text>
+		<text>високі</text>
 	</string>
 	<string id="Low">
-		<text>низкие</text>
+		<text>низькі</text>
 	</string>
 	<string id="Minimum">
-		<text>минимальные</text>
+		<text>мінімальні</text>
 	</string>
 	<string id="mm_mp_check_cdkey">
-		<text>проверять CD-Key</text>
+		<text>перевіряти CD-Key</text>
 	</string>
 	<string id="Nigth">
-		<text>ночь</text>
+		<text>ніч</text>
 	</string>
 	<string id="Rain">
-		<text>дождь</text>
+		<text>дощ</text>
 	</string>
 	<string id="renderer_r1">
-		<text>Статическое освещение</text>
+		<text>Статичне освітлення</text>
 	</string>
 	<string id="renderer_r2">
-		<text>Полное динамическое освещение</text>
+		<text>Повне динамічне освітлення</text>
 	</string>
 	<string id="renderer_r2a">
-		<text>Динамическое освещение объектов</text>
+		<text>Динамічне освітлення об&apos;єктів</text>
 	</string>
 	<string id="st_artefacthunt">
 		<text>NLC7</text>
@@ -58,16 +58,16 @@
 		<text>NLC7</text>
 	</string>
 	<string id="st_rank_experienced">
-		<text>опытный</text>
+		<text>досвідчений</text>
 	</string>
 	<string id="st_rank_legend">
-		<text>легендарный сталкер</text>
+		<text>легендарний сталкер</text>
 	</string>
 	<string id="st_rank_novice">
-		<text>новичок</text>
+		<text>новачок</text>
 	</string>
 	<string id="st_rank_professional">
-		<text>профессионал</text>
+		<text>професіонал</text>
 	</string>
 	<string id="st_rank_veteran">
 		<text>ветеран</text>
@@ -82,130 +82,130 @@
 		<text>АТП</text>
 	</string>
 	<string id="testers_mp_darkvalley">
-		<text>Тёмная долина</text>
+		<text>Темна долина</text>
 	</string>
 	<string id="testers_mp_factory">
-		<text>Фабрика "Янтарь"</text>
+		<text>Фабрика &quot;Янтар&quot;</text>
 	</string>
 	<string id="testers_mp_lost_village">
-		<text>Покинутая деревня</text>
+		<text>Покинуте село</text>
 	</string>
 	<string id="testers_mp_military_1">
-		<text>Армейские склады</text>
+		<text>Армійські склади</text>
 	</string>
 	<string id="testers_mp_pool">
-		<text>Бассейн</text>
+		<text>Басейн</text>
 	</string>
 	<string id="testers_mp_railroad">
-		<text>Ж/д станция</text>
+		<text>Залізнична станція</text>
 	</string>
 	<string id="testers_mp_rostok">
-		<text>Завод "Росток"</text>
+		<text>Завод &quot;Росток&quot;</text>
 	</string>
 	<string id="testers_mp_workshop">
-		<text>Брошенная фабрика</text>
+		<text>Покинута фабрика</text>
 	</string>
 	<string id="ui_mm_60_hz">
 		<text>Частота 60Гц</text>
 	</string>
 	<string id="ui_mm_action">
-		<text>Действие</text>
+		<text>Дія</text>
 	</string>
 	<string id="ui_mm_advanced">
-		<text>Расширенные</text>
+		<text>Розширені</text>
 	</string>
 	<string id="ui_mm_anisotropic">
-		<text>Фильтрация текстур</text>
+		<text>Фільтрування текстур</text>
 	</string>
 	<string id="ui_mm_apply">
-		<text>Применить</text>
+		<text>Застосувати</text>
 	</string>
 	<string id="ui_mm_back">
-		<text>Назад</text>
+		<text>назад</text>
 	</string>
 	<string id="ui_mm_blood">
-		<text>Кровь</text>
+		<text>Кров</text>
 	</string>
 	<string id="ui_mm_brightness">
-		<text>Яркость</text>
+		<text>Яскравість</text>
 	</string>
 	<string id="ui_mm_cancel">
-		<text>Отмена</text>
+		<text>Відміна</text>
 	</string>
 	<string id="ui_mm_contrast">
 		<text>Контраст</text>
 	</string>
 	<string id="ui_mm_controls">
-		<text>Управление</text>
+		<text>Управління</text>
 	</string>
 	<string id="ui_mm_credits">
-		<text>Титры</text>
+		<text>Титри</text>
 	</string>
 	<string id="ui_mm_crosshair_distance">
-		<text>Дистанция до цели</text>
+		<text>Дистанція до мети</text>
 	</string>
 	<string id="ui_mm_delete">
-		<text>Удалить</text>
+		<text>видалити</text>
 	</string>
 	<string id="ui_mm_default_pool">
-		<text>Загрузка текстур в видеопамять</text>
+		<text>Завантаження текстур у відеопам&apos;ять</text>
 	</string>
 	<string id="ui_mm_difficulty">
-		<text>Все настройки работают только на уровне сложности "Новичок"!</text>
+		<text>Усі налаштування працюють лише на рівні складності &quot;Новичок&quot;!</text>
 	</string>
 	<string id="ui_mm_disconnect">
-		<text>Отсоединиться</text>
+		<text>Від&apos;єднатися</text>
 	</string>
 	<string id="ui_mm_disconnect_message">
-		<text>Действительно ли Вы желаете отсоединиться?</text>
+		<text>Чи дійсно Ви бажаєте від&apos;єднатися?</text>
 	</string>
 	<string id="ui_mm_dyn_crosshair">
-		<text>Динамический прицел</text>
+		<text>Динамічний приціл</text>
 	</string>
 	<string id="ui_mm_eax">
 		<text>EAX</text>
 	</string>
 	<string id="ui_mm_fullscreen">
-		<text>Полный экран</text>
+		<text>Повний екран</text>
 	</string>
 	<string id="ui_mm_gameplay">
-		<text>Игра</text>
+		<text>Гра</text>
 	</string>
 	<string id="ui_mm_gamma">
 		<text>Гамма</text>
 	</string>
 	<string id="ui_mm_geometry_lod">
-		<text>Детализация объектов</text>
+		<text>Деталізація об&apos;єктів</text>
 	</string>
 	<string id="ui_mm_invert_mouse">
-		<text>Инвертировать мышь</text>
+		<text>Інвертувати мишу</text>
 	</string>
 	<string id="ui_mm_key">
 		<text>Кнопка</text>
 	</string>
 	<string id="ui_mm_keyboard_setup">
-		<text>Настройка клавиатуры</text>
+		<text>Налаштування клавіатури</text>
 	</string>
 	<string id="ui_mm_last_save">
-		<text>Последн. сохран.</text>
+		<text>Останн. збереж.</text>
 	</string>
 	<string id="ui_mm_light_distance">
-		<text>Дальность освещения</text>
+		<text>Дальність освітлення</text>
 	</string>
 	<string id="ui_mm_load">
-		<text>Загрузить</text>
+		<text>Завантажити</text>
 	</string>
 	<string id="ui_mm_load_game">
-		<text>Загрузить игру</text>
+		<text>Завантажити гру</text>
 	</string>
 	<string id="ui_mm_master">
-		<text>Мастер</text>
+		<text>Майстер</text>
 	</string>
 	<string id="ui_mm_master_volume">
-		<text>Громкость</text>
+		<text>Гучність</text>
 	</string>
 	<string id="ui_mm_mouse_sense">
-		<text>Чувствительность мыши</text>
+		<text>Чутливість миші</text>
 	</string>
 	<string id="ui_mm_multiplayer">
 		<text>-</text>
@@ -214,213 +214,213 @@
 		<text>-</text>
 	</string>
 	<string id="ui_mm_music_volume">
-		<text>Громкость музыки</text>
+		<text>Гучність музики</text>
 	</string>
 	<string id="ui_mm_need_restart">
-		<text>Изменения вступят в силу только после перезагрузки игры!</text>
+		<text>Зміни набудуть чинності лише після перезавантаження гри!</text>
 	</string>
 	<string id="ui_mm_newgame">
-		<text>Новая игра</text>
+		<text>Нова гра</text>
 	</string>
 	<string id="ui_mm_novice">
-		<text>Новичок</text>
+		<text>Новачок</text>
 	</string>
 	<string id="ui_mm_npc_torch">
-		<text>Свет фонариков NPC</text>
+		<text>Світло ліхтариків NPC</text>
 	</string>
 	<string id="ui_mm_options">
-		<text>ОПЦИИ</text>
+		<text>ОПЦІЇ</text>
 	</string>
 	<string id="ui_mm_options_n">
-		<text>Опции</text>
+		<text>Опції</text>
 	</string>
 	<string id="ui_mm_particles_distance">
-		<text>Дальность частиц</text>
+		<text>Дальність частинок</text>
 	</string>
 	<string id="ui_mm_quality_presets">
-		<text>Установки качества</text>
+		<text>Налаштування якості</text>
 	</string>
 	<string id="ui_mm_quit_game">
-		<text>Завершить игру</text>
+		<text>Завершити гру</text>
 	</string>
 	<string id="ui_mm_quit_game_message">
-		<text>Действительно ли Вы желаете покинуть Зону?</text>
+		<text>Чи дійсно Ви хочете залишити Зону?</text>
 	</string>
 	<string id="ui_mm_quit_windows_message">
-		<text>Действительно ли Вы хотите покинуть NLC7?</text>
+		<text>Чи дійсно Ви хочете залишити NLC7?</text>
 	</string>
 	<string id="ui_mm_quit2windows">
-		<text>Покинуть ЗОНУ</text>
+		<text>Залишити ЗОНУ</text>
 	</string>
 	<string id="ui_mm_renderer">
-		<text>Тип освещения</text>
+		<text>Тип освітлення</text>
 	</string>
 	<string id="ui_mm_resolution">
-		<text>Разрешение</text>
+		<text>Дозвіл</text>
 	</string>
 	<string id="ui_mm_return_game">
-		<text>Вернуться в ЗОНУ</text>
+		<text>Повернутись у ЗОНУ</text>
 	</string>
 	<string id="ui_mm_save">
-		<text>Сохранить</text>
+		<text>Зберегти</text>
 	</string>
 	<string id="ui_mm_save_game">
-		<text>Сохранить игру</text>
+		<text>Зберегти гру</text>
 	</string>
 	<string id="ui_mm_show_crosshair">
-		<text>Показывать прицел</text>
+		<text>Показувати приціл</text>
 	</string>
 	<string id="ui_mm_show_weapon">
-		<text>Показывать оружие</text>
+		<text>Показувати зброю</text>
 	</string>
 	<string id="ui_mm_simply">
-		<text>Базовые</text>
+		<text>Базові</text>
 	</string>
 	<string id="ui_mm_sound">
 		<text>Звук</text>
 	</string>
 	<string id="ui_mm_sound_quality">
-		<text>Качество звука</text>
+		<text>Якість звуку</text>
 	</string>
 	<string id="ui_mm_stalker">
 		<text>Сталкер</text>
 	</string>
 	<string id="ui_mm_sun_quality">
-		<text>Качество теней</text>
+		<text>Якість тіней</text>
 	</string>
 	<string id="ui_mm_supersample">
-		<text>Сглаживание MSAA</text>
+		<text>Згладжування MSAA</text>
 	</string>
 	<string id="ui_mm_switch_torch">
-		<text>Использование фонариков NPC</text>
+		<text>Використання ліхтариків NPC</text>
 	</string>
 	<string id="ui_mm_texture_quality">
-		<text>Качество текстур</text>
+		<text>Якість текстур</text>
 	</string>
 	<string id="ui_mm_tips">
-		<text>Распознавание NPC</text>
+		<text>Розпізнавання NPC</text>
 	</string>
 	<string id="ui_mm_veteran">
 		<text>Ветеран</text>
 	</string>
 	<string id="ui_mm_video">
-		<text>Видео</text>
+		<text>Відео</text>
 	</string>
 	<string id="ui_mm_vis_distance">
-		<text>Дальность видимости</text>
+		<text>Дальність видимості</text>
 	</string>
 	<string id="ui_mm_vsync">
-		<text>Синхронизация</text>
+		<text>Синхронізація</text>
 	</string>
 	<string id="ui_st_last_set">
-		<text>Посл. набор</text>
+		<text>Ост. набір</text>
 	</string>
 	<string id="ui_st_preset1">
-		<text>( DEL - удалить имя файла целиком )</text>
+		<text>( DEL - видалити ім&apos;я файлу повністю )</text>
 	</string>
 	<string id="ui_st_preset2">
-		<text>Набор 2</text>
+		<text>Набір 2</text>
 	</string>
 	<string id="ui_st_preset3">
-		<text>Набор 3</text>
+		<text>Набір 3</text>
 	</string>
 	<string id="ui_st_reset">
-		<text>Сбросить</text>
+		<text>Скинути</text>
 	</string>
 	<string id="ui_st_sell_all">
 		<text>Бекап</text>
 	</string>
 	<string id="ui_mm_detail_distance">
-		<text>Дальность травы</text>
+		<text>Дальність трави</text>
 	</string>
-		<string id="ui_mm_r2_detail_bump">
-		<text>Детальный рельеф</text>
+	<string id="ui_mm_r2_detail_bump">
+		<text>Детальний рельєф</text>
 	</string>
-		<string id="ui_mm_r2_steep_parallax">
+	<string id="ui_mm_r2_steep_parallax">
 		<text>Steep parallax</text>
 	</string>
-		<string id="ui_mm_r2_sun_quality">
-		<text>Качество солнца</text>
+	<string id="ui_mm_r2_sun_quality">
+		<text>Якість сонця</text>
 	</string>
-		<string id="ui_mm_soft_particles">
-		<text>Мягкие частицы</text>
+	<string id="ui_mm_soft_particles">
+		<text>М&apos;які частки</text>
 	</string>
-		<string id="ui_mm_soft_water">
-		<text>Мягкая вода</text>
+	<string id="ui_mm_soft_water">
+		<text>М&apos;яка вода</text>
 	</string>
-		<string id="ui_mm_sun_shafts">
-		<text>Солнечные лучи</text>
+	<string id="ui_mm_sun_shafts">
+		<text>Сонячні промені</text>
 	</string>
-		<string id="ui_mm_volumetric_light">
-		<text>Объёмный свет</text>
+	<string id="ui_mm_volumetric_light">
+		<text>Об&apos;ємне світло</text>
 	</string>
-		<string id="st_opt_off">
-		<text>отключено</text>
+	<string id="st_opt_off">
+		<text>відключено</text>
 	</string>
-		<string id="st_opt_low">
-		<text>низко</text>
+	<string id="st_opt_low">
+		<text>низько</text>
 	</string>
-		<string id="st_opt_medium">
-		<text>средне</text>
+	<string id="st_opt_medium">
+		<text>середньо</text>
 	</string>
-		<string id="st_opt_high">
-		<text>высоко</text>
+	<string id="st_opt_high">
+		<text>високо</text>
 	</string>
-		<string id="st_opt_extreme">
-		<text>макс. высоко</text>
+	<string id="st_opt_extreme">
+		<text>макс. високо</text>
 	</string>
-		<string id="renderer_r2.5">
-		<text>Улучшенное полное освещение</text>
+	<string id="renderer_r2.5">
+		<text>Покращене повне освітлення</text>
 	</string>
-		<string id="ui_mm_ssao_quality">
-		<text>Качество SSAO</text>
+	<string id="ui_mm_ssao_quality">
+		<text>Якість SSAO</text>
 	</string>
-		<string id="ui_mm_ssao_text">
+	<string id="ui_mm_ssao_text">
 		<text>Режим SSAO</text>
 	</string>
-		<string id="ui_mm_ssao">
+	<string id="ui_mm_ssao">
 		<text>SSAO</text>
 	</string>
-		<string id="ui_mm_hdao">
+	<string id="ui_mm_hdao">
 		<text>HDAO</text>
 	</string>
-		<string id="ui_mm_hbao">
+	<string id="ui_mm_hbao">
 		<text>HBAO</text>
 	</string>
-			<string id="ui_mm_r__actor_shadow">
-		<text>Тень персонажа</text>
+	<string id="ui_mm_r__actor_shadow">
+		<text>Тінь персонажа</text>
 	</string>
-		<string id="ui_mm_r__bloodmarks">
-		<text>Отметины пуль на телах</text>
+	<string id="ui_mm_r__bloodmarks">
+		<text>Відмітини куль на тілах</text>
 	</string>
-		<string id="ui_mm_dof">
-		<text>Глубина резкости</text>
+	<string id="ui_mm_dof">
+		<text>Глибина різкості</text>
 	</string>
-		<string id="ui_mm_wet_surfaces">
-		<text>Намокание поверхностей</text>
+	<string id="ui_mm_wet_surfaces">
+		<text>Намокання поверхонь</text>
 	</string>
-		<string id="ui_mm_reflections_mode">
-		<text>Режим отражений</text>
+	<string id="ui_mm_reflections_mode">
+		<text>Режим відображення</text>
 	</string>
-		<string id="ui_mm_reflections_quality">
-		<text>Качество отражений</text>
+	<string id="ui_mm_reflections_quality">
+		<text>Якість відображень</text>
 	</string>
-		<string id="st_mm_qt_off">
-		<text>выключено</text>
-	</string>	
-		<string id="ui_mm_qt_low">
-		<text>низкое(рекомендуется)</text>
+	<string id="st_mm_qt_off">
+		<text>вимкнено</text>
 	</string>
-		<string id="ui_mm_qt_high">
-		<text>высокое</text>
-	</string>	
-		<string id="st_mm_r_water">
-		<text>на воде</text>
+	<string id="ui_mm_qt_low">
+		<text>низька (рекомендується)</text>
 	</string>
-		<string id="ui_mm_r_ground">
-		<text>на асфальте</text>
+	<string id="ui_mm_qt_high">
+		<text>висока</text>
 	</string>
-		<string id="ui_mm_r_both">
-		<text>на воде и асфальте</text>
-	</string>	
+	<string id="st_mm_r_water">
+		<text>на воді</text>
+	</string>
+	<string id="ui_mm_r_ground">
+		<text>на асфальті</text>
+	</string>
+	<string id="ui_mm_r_both">
+		<text>на воді та асфальті</text>
+	</string>
 </string_table>

@@ -1,56 +1,53 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="actor_has_borov_key">
-		<text>Место входа в лабораторию Х-18</text>
+		<text>Місце входу до лабораторії Х-18</text>
 	</string>
 	<string id="Found_PDA">
-		<text>Найденные обрывки информации</text>
+		<text>Знайдені уривки інформації</text>
 	</string>
-
 	<string id="bandit">
-		<text>Бандиты</text>
+		<text>Бандити</text>
 	</string>
 	<string id="dolg">
-		<text>"Долг"</text>
+		<text>&quot;Борг&quot;</text>
 	</string>
 	<string id="ecolog">
-		<text>Учёные</text>
+		<text>Вчені</text>
 	</string>
 	<string id="killer">
-		<text>Наёмники</text>
+		<text>Найманці</text>
 	</string>
 	<string id="freedom">
-		<text>"Свобода"</text>
+		<text>&quot;Свобода&quot;</text>
 	</string>
 	<string id="military">
-		<text>Военные</text>
+		<text>Військові</text>
 	</string>
 	<string id="monolith">
-		<text>"Монолит"</text>
+		<text>&quot;Моноліт&quot;</text>
 	</string>
 	<string id="trader">
-		<text>Уважаемый</text>
+		<text>Шановний</text>
 	</string>
 	<string id="stalker">
-		<text>Одиночки</text>
+		<text>Одинак</text>
 	</string>
 	<string id="zombied">
-		<text>зомби</text>
+		<text>зомбі</text>
 	</string>
-
 	<string id="actor">
-		<text>Одиночка</text>
+		<text>Одинак</text>
 	</string>
 	<string id="actor_dolg">
-		<text>"Долг"</text>
+		<text>&quot;Борг&quot;</text>
 	</string>
 	<string id="actor_freedom">
-		<text>"Свобода"</text>
+		<text>&quot;Свобода&quot;</text>
 	</string>
 	<string id="arena_enemy">
-		<text>Наёмник</text>
+		<text>Найманець</text>
 	</string>
-
 	<string id="neutral">
 		<text>нейтрал</text>
 	</string>
@@ -61,280 +58,276 @@
 		<text>друг</text>
 	</string>
 	<string id="enemy">
-		<text>враг</text>
+		<text>ворог</text>
 	</string>
 	<string id="bad">
-		<text>плохая</text>
+		<text>погана</text>
 	</string>
 	<string id="good">
-		<text>хорошая</text>
+		<text>гарна</text>
 	</string>
 	<string id="excellent">
-		<text>отличная</text>
+		<text>відмінна</text>
 	</string>
 	<string id="terrible">
-		<text>ужасная</text>
+		<text>жахлива</text>
 	</string>
 	<string id="very_bad">
-		<text>очень плохая</text>
+		<text>дуже погана</text>
 	</string>
 	<string id="very_good">
-		<text>очень хорошая</text>
+		<text>дуже хороша</text>
 	</string>
-
 	<string id="l01_escape">
 		<text>Кордон</text>
 	</string>
 	<string id="l02_garbage">
-		<text>Свалка</text>
+		<text>Звалище</text>
 	</string>
 	<string id="l03_agroprom">
 		<text>Агропром</text>
 	</string>
 	<string id="l04_darkvalley">
-		<text>Тёмная долина</text>
+		<text>Темна долина</text>
 	</string>
 	<string id="l05_bar">
 		<text>Бар</text>
 	</string>
 	<string id="l06_rostok">
-		<text>Дикая территория</text>
+		<text>Дика територія</text>
 	</string>
 	<string id="l07_military">
-		<text>Армейские склады</text>
+		<text>Армійські склади</text>
 	</string>
 	<string id="l08_yantar">
-		<text>Янтарь</text>
+		<text>Бурштин</text>
 	</string>
 	<string id="l10_radar">
 		<text>Радар</text>
 	</string>
 	<string id="l11_pripyat">
-		<text>Припять</text>
+		<text>Прип&apos;ять</text>
 	</string>
 	<string id="l12_stancia_new">
-		<text>ЧАЭС</text>
+		<text>ЧАЕС</text>
 	</string>
 	<string id="l12_stancia_2">
-		<text>ЧАЭС</text>
+		<text>ЧАЕС</text>
 	</string>
 	<string id="l12_stancia_2_new">
-		<text>ЧАЭС2</text>
+		<text>ЧАЕС2</text>
 	</string>
 	<string id="l03u_agr_underground">
-		<text>Подземелье НИИ 'Агропром'</text>
+		<text>Підземелля НДІ &apos;Агропром&apos;</text>
 	</string>
 	<string id="l04u_labx18">
-		<text>Лаборатория X-18</text>
+		<text>Лабораторія X-18</text>
 	</string>
 	<string id="l08u_brainlab">
-		<text>Лаборатория X-16</text>
+		<text>Лабораторія X-16</text>
 	</string>
 	<string id="labx8">
-		<text>Лаборатория X-8</text>
+		<text>Лабораторія X-8</text>
 	</string>
 	<string id="labx10">
-		<text>Лаборатория X-10</text>
+		<text>Лабораторія X-10</text>
 	</string>
 	<string id="l10u_bunker">
-		<text>Лаборатория X-12</text>
+		<text>Лабораторія X-12</text>
 	</string>
 	<string id="l12u_sarcofag">
 		<text>Саркофаг</text>
 	</string>
 	<string id="l12u_control_monolith">
-		<text>Управление Монолитом</text>
+		<text>Управління монолітом</text>
 	</string>
 	<string id="aver">
-		<text>Туманная чаща</text>
+		<text>Туманна хаща</text>
 	</string>
 	<string id="av_peshera">
-		<text>Подземелье диггеров</text>
+		<text>Підземелля дігерів</text>
 	</string>
 	<string id="deadcity">
-		<text>Иванковский райцентр</text>
+		<text>Іванківський райцентр</text>
 	</string>
 	<string id="limansk">
-		<text>Лиманск</text>
+		<text>Лиманськ</text>
 	</string>
 	<string id="lost_village">
-		<text>Забытый хутор</text>
+		<text>Забутий хутір</text>
 	</string>
 	<string id="marsh">
 		<text>Болота</text>
 	</string>
 	<string id="peshera">
-		<text>Катакомбы</text>
+		<text>Катакомби</text>
 	</string>
 	<string id="red_forest">
-		<text>Рыжий лес</text>
+		<text>Рудий ліс</text>
 	</string>
 	<string id="generators">
-		<text>Зона 'Тесла'</text>
+		<text>Зона &apos;Тесла&apos;</text>
 	</string>
 	<string id="hospital">
-		<text>Санаторий 'Луч'</text>
+		<text>Санаторій &apos;Промінь&apos;</text>
 	</string>
 	<string id="k01_darkscape">
-		<text>'Кишка' Зоны</text>
+		<text>&apos;Кишка&apos; Зони</text>
 	</string>
 	<string id="warlab">
-		<text>Бункер 'Тесла'</text>
+		<text>Бункер &apos;Тесла&apos;</text>
 	</string>
-
 	<string id="master">
-		<text>мастер</text>
+		<text>майстер</text>
 	</string>
 	<string id="experienced">
-		<text>опытный</text>
+		<text>досвідчений</text>
 	</string>
 	<string id="novice">
-		<text>новичок</text>
+		<text>новачок</text>
 	</string>
 	<string id="veteran">
 		<text>ветеран</text>
 	</string>
-
 	<string id="st_no_active_task">
-		<text>Нет активного задания</text>
+		<text>Немає активного завдання</text>
 	</string>
 	<string id="st_time_till_surge">
-		<text>Время до Выброса</text>
+		<text>Час до Викиду</text>
 	</string>
 	<string id="Btn_Cancel">
-		<text>Отменить</text>
+		<text>Скасувати</text>
 	</string>
 	<string id="Btn_No">
-		<text>Нет</text>
+		<text>Ні</text>
 	</string>
 	<string id="Btn_OK">
 		<text>OK</text>
 	</string>
 	<string id="Btn_Yes">
-		<text>Да</text>
+		<text>Так</text>
 	</string>
 	<string id="global_map">
 		<text>ЗОНА</text>
 	</string>
 	<string id="st_autosave">
-		<text>Автосохранение...</text>
+		<text>Автозбереження...</text>
 	</string>
 	<string id="st_game_over">
-		<text>Погиб</text>
+		<text>Загинув</text>
 	</string>
 	<string id="st_item_used">
-		<text>Использовано</text>
+		<text>Використано</text>
 	</string>
 	<string id="st_not_enough_money">
-		<text>Недостаточно денег</text>
+		<text>Недостатньо коштів</text>
 	</string>
 	<string id="st_not_enough_money_npc">
-		<text>У собеседника недостаточно денег</text>
+		<text>У співрозмовника недостатньо грошей</text>
 	</string>
 	<string id="ui_st_opponent_items">
 		<text>Рюкзак</text>
 	</string>
 	<string id="st_search_treasure">
-		<text>Проверить</text>
+		<text>Перевірити</text>
 	</string>
 	<string id="st_search_body">
-		<text>Что там у него в брюхе...</text>
+		<text>Що там у нього в череві...</text>
 	</string>
 	<string id="search_self_inv">
-		<text>Заглянуть внутрь</text>
+		<text>Зазирнути всередину</text>
 	</string>
 	<string id="search_self_rep">
-		<text>Разложить рембокс</text>
+		<text>Розкласти рембокс</text>
 	</string>
 	<string id="what_this">
-		<text>Что там у меня...</text>
+		<text>Що там у мене...</text>
 	</string>
 	<string id="inventory_item_use">
-		<text>Поднять</text>
+		<text>Підняти</text>
 	</string>
 	<string id="ui_mm_check_updates">
-		<text>Обновления</text>
+		<text>Оновлення</text>
 	</string>
 	<string id="ui_mm_alternative">
 		<text>Альтернатива</text>
 	</string>
 	<string id="ui_inv_health">
-		<text>Здоровье</text>
+		<text>Здоров&apos;я</text>
 	</string>
 	<string id="ui_inv_psy_health">
-		<text>Пси-здоровье</text>
+		<text>Пси-здоров&apos;я</text>
 	</string>
 	<string id="ui_inv_radiation">
-		<text>Радиация</text>
+		<text>Радіація</text>
 	</string>
 	<string id="ui_inv_satiety">
-		<text>Сытость</text>
+		<text>Ситість</text>
 	</string>
 	<string id="ui_inv_power">
-		<text>Выносливость</text>
+		<text>Витривалість</text>
 	</string>
 	<string id="ui_inv_bleeding">
-		<text>Кровотечение</text>
+		<text>Кровотеча</text>
 	</string>
 	<string id="st_mp_say_to_all">
-		<text>Всем</text>
+		<text>Всім</text>
 	</string>
 	<string id="st_mp_say_to_team">
-		<text>Команде</text>
+		<text>Команді</text>
 	</string>
 	<string id="st_knife">
-		<text>Нож</text>
+		<text>Ніж</text>
 	</string>
 	<string id="st_mp_disabled_voting">
-		<text>ПОСЛ.СОХРАНЕНИЕ</text>
+		<text>ПОСЛ.ЗБЕРІГАННЯ</text>
 	</string>
 	<string id="st_mp_no_current_voting">
-		<text>ЗАГРУЗИТЬ</text>
+		<text>ЗАВАНТАЖИТИ</text>
 	</string>
 	<string id="st_mp_ready">
-		<text>готов</text>
+		<text>готовий</text>
 	</string>
 	<string id="st_mp_voting_succeed">
-		<text>В ГЛАВНОЕ МЕНЮ</text>
+		<text>У ГОЛОВНЕ МЕНЮ</text>
 	</string>
 	<string id="st_mp_voting_failed">
 		<text>NLC 3.8.2_open</text>
 	</string>
 	<string id="st_change_level_disabled">
-		<text>Переход заблокирован, требуется цифровая подпись профиля. Загрузите player.dat на странице http://darkstalker.ru/sign_profile.php для подписывания.</text>
+		<text>Перехід заблоковано, потрібний цифровий підпис профілю. Завантажте player.dat на сторінці http://darkstalker.ru/sign_profile.php для підписування.</text>
 	</string>
 	<string id="box_no_space">
-		<text>Нельзя положить больше предметов</text>
+		<text>Не можна покласти більше предметів</text>
 	</string>
-
 	<string id="enc_recipts">
-		<text>Рецепты модификатов</text>
+		<text>Рецепти модифікатів</text>
 	</string>
 	<string id="a_level_1">
-		<text>Первый уровень</text>
+		<text>Перший рівень</text>
 	</string>
 	<string id="a_level_2">
-		<text>Второй уровень</text>
+		<text>Другий рівень</text>
 	</string>
 	<string id="a_level_3">
-		<text>Третий уровень</text>
+		<text>Третій рівень</text>
 	</string>
 	<string id="a_level_4">
-		<text>Пустышки</text>
+		<text>Пустушки</text>
 	</string>
 	<string id="a_level_5">
-		<text>Уникальные</text>
+		<text>Унікальні</text>
 	</string>
 	<string id="mod">
-		<text>Модификаты</text>
+		<text>Модифікати</text>
 	</string>
 	<string id="mezomod">
-		<text>Мезомодификаты</text>
+		<text>Мезомодифікати</text>
 	</string>
 	<string id="gipermod">
-		<text>Гипермодификаты</text>
+		<text>Гіпермодифікати</text>
 	</string>
 	<string id="absol">
-		<text>Абсолюты</text>
-	</string>  
+		<text>Абсолюти</text>
+	</string>
 </string_table>

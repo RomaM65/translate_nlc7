@@ -1,261 +1,261 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="tips_x8_switcher_press_01">
-		<text>Эл. питание \nпервая секция</text>
+		<text>Ел. живлення\nперша секція</text>
 	</string>
 	<string id="tips_x8_switcher_press_02">
-		<text>Эл. питание \nвторая секция</text>
+		<text>Ел. живлення\nдруга секція</text>
 	</string>
 	<string id="tips_x8_switcher_press_03">
-		<text>Эл. питание \nтретья секция</text>
+		<text>Ел. живлення\nтретя секція</text>
 	</string>
 	<string id="tips_x8_switcher_press_04">
-		<text>Эл. питание \nсекция выч. центра</text>
+		<text>Ел. живлення\nсекція віднім. центру</text>
 	</string>
 	<string id="tips_x8_switcher_press_05">
-		<text>Эл. питание \nпятая секция</text>
+		<text>Ел. живлення\nп&apos;ята секція</text>
 	</string>
 	<string id="tips_x8_switcher_press_06">
-		<text>Эл. питание \nшестая секция</text>
+		<text>Ел. живлення\nшоста секція</text>
 	</string>
 	<string id="tips_x8_switcher_press_07">
-		<text>Эл. питание \nседьмая секция</text>
+		<text>Ел. живлення\nсьома секція</text>
 	</string>
 	<string id="tips_x8_switcher_press_08">
-		<text>Эл. питание \nвосьмая секция</text>
+		<text>Ел. живлення\nвосьма секція</text>
 	</string>
 	<string id="tips_x8_switcher_press_09">
-		<text>Эл. питание \nдевятая секция</text>
+		<text>Ел. живлення\nдев&apos;ята секція</text>
 	</string>
 	<string id="labx8_pribor1">
-		<text>Гармонизатор 1</text>
+		<text>Гармонізатор 1</text>
 	</string>
 	<string id="labx8_pribor2">
-		<text>Гармонизатор 2</text>
+		<text>Гармонізатор 2</text>
 	</string>
 	<string id="labx8_pribor3">
-		<text>Гармонизатор 3</text>
+		<text>Гармонізатор 3</text>
 	</string>
 	<string id="labx8_pribor4">
-		<text>Гармонизатор 4</text>
+		<text>Гармонізатор 4</text>
 	</string>
 	<string id="labx8_pribor5">
-		<text>Гармонизатор 5</text>
+		<text>Гармонізатор 5</text>
 	</string>
 	<string id="block_door">
-		<text>Дверь заблокирована</text>
+		<text>Двері заблоковані</text>
 	</string>
 	<string id="labx10_button5">
-		<text>Геотермальный генератор</text>
+		<text>Геотермальний генератор</text>
 	</string>
 	<string id="labx10_button2">
-		<text>Открыть дверь</text>
+		<text>Відкрити двері</text>
 	</string>
 	<string id="labx10_button3">
-		<text>Открыть дверь</text>
+		<text>Відкрити двері</text>
 	</string>
 	<string id="labx10_button4">
-		<text>Открыть дверь</text>
+		<text>Відкрити двері</text>
 	</string>
 	<string id="labx10_button6">
-		<text>Основная линия первого реактора</text>
+		<text>Основна лінія першого реактора</text>
 	</string>
 	<string id="labx10_button1">
-		<text>Резервная линия первого реактора</text>
+		<text>Резервна лінія першого реактора</text>
 	</string>
 	<string id="labx10_button7">
-		<text>Основная линия второго реактора</text>
+		<text>Основна лінія другого реактора</text>
 	</string>
 	<string id="labx10_button8">
-		<text>Резервная линия второго реактора</text>
+		<text>Резервна лінія другого реактора</text>
 	</string>
 	<string id="lim_button1">
-		<text>Включить установку</text>
+		<text>Увімкнути встановлення</text>
 	</string>
 	<string id="knife_need">
-		<text>Нужен нож</text>
+		<text>Потрібен ніж</text>
 	</string>
 	<string id="nothing_to_cut_off">
-		<text>Ничего полезного</text>
+		<text>Нічого корисного</text>
 	</string>
 	<string id="cut_off_part">
-		<text>%c[red]Отделим часть мутанта</text>
+		<text>%c[red]Відділимо частину мутанта</text>
 	</string>
 	<string id="to_scan_body">
-		<text>Обшарим тело</text>
+		<text>Обшарим тіло</text>
 	</string>
 	<string id="hands_busy">
-		<text>Руки заняты</text>
+		<text>Руки зайняті</text>
 	</string>
 	<string id="look_inside">
-		<text>Заглянем внутрь</text>
+		<text>Заглянемо всередину</text>
 	</string>
 	<string id="no_supply">
-		<text>Нет энергии</text>
+		<text>Немає енергії</text>
 	</string>
 	<string id="free_enter">
-		<text>Код взломан --- Войти</text>
+		<text>Код зламаний --- Увійти</text>
 	</string>
 	<string id="has_water">
-		<text>Тоннель затоплен</text>
+		<text>Тунель затоплений</text>
 	</string>
 	<string id="bar_rostok">
-		<text>Дикая территория - "Росток"</text>
+		<text>Дика територія - &quot;Росток&quot;</text>
 	</string>
 	<string id="car_character_use">
-		<text>Открыть</text>
+		<text>Відкрити</text>
 	</string>
 	<string id="character_use">
-		<text>Поговорим?</text>
+		<text>Поговоримо?</text>
 	</string>
 	<string id="dead_character_use_or_drag">
-		<text>Осмотреть труп</text>
+		<text>Оглянути труп</text>
 	</string>
 	<string id="dead_character_use">
-		<text>Осмотреть труп</text>
+		<text>Оглянути труп</text>
 	</string>
 	<string id="general_complete_task">
-		<text>Задание выполнено: </text>
+		<text>Завдання виконано:</text>
 	</string>
 	<string id="general_fail_task">
-		<text>Задание провалено: </text>
+		<text>Завдання провалено:</text>
 	</string>
 	<string id="general_cancel_task">
-		<text>Поручение отменяется: </text>
+		<text>Доручення скасовується:</text>
 	</string>
 	<string id="general_help">
-		<text>Срочно нужна аптечка, помираю!!!</text>
+		<text>Терміново потрібна аптечка, помираю!</text>
 	</string>
 	<string id="general_in_item">
-		<text>Получил: </text>
+		<text>Отримав:</text>
 	</string>
 	<string id="general_in_money">
-		<text>Получены деньги: </text>
+		<text>Отримано гроші:</text>
 	</string>
 	<string id="general_new_diary">
-		<text>Новая запись в дневнике.</text>
+		<text>Новий запис у щоденнику.</text>
 	</string>
 	<string id="general_new_encyclopedy">
-		<text>Новая статья в энциклопедии.</text>
+		<text>Нова стаття у енциклопедії.</text>
 	</string>
 	<string id="general_new_task">
-		<text>Новое задание: </text>
+		<text>Нове завдання:</text>
 	</string>
 	<string id="general_out_item">
-		<text>Отдал: </text>
+		<text>Віддав:</text>
 	</string>
 	<string id="general_out_money">
-		<text>Передано денег: </text>
+		<text>Передано гроші:</text>
 	</string>
 	<string id="general_update_task">
-		<text>Задание обновлено: </text>
+		<text>Завдання оновлено:</text>
 	</string>
 	<string id="physic_shell_use">
-		<text>Двигать объект</text>
+		<text>Рухати об&apos;єкт</text>
 	</string>
 	<string id="st_codelock">
-		<text>Набрать код</text>
+		<text>Набрати код</text>
 	</string>
 	<string id="coded_this_door">
-		<text>Дверь заблокирована</text>
+		<text>Двері заблоковані</text>
 	</string>
 	<string id="open_this_door">
-		<text>Открыть дверь</text>
+		<text>Відкрити двері</text>
 	</string>
 	<string id="close_this_door">
-		<text>Закрыть дверь</text>
+		<text>Закрити двері</text>
 	</string>
 	<string id="comp_enter">
-		<text>Открыть файл</text>
+		<text>Відкрити файл</text>
 	</string>
 	<string id="pult_on">
-		<text>Включить высокое напряжение</text>
+		<text>Включити високу напругу</text>
 	</string>
 	<string id="pult_off">
-		<text>Выключить высокое напряжение</text>
+		<text>Вимкнути високу напругу</text>
 	</string>
 	<string id="pump_on">
-		<text>Включить контактор. Подать питание на насосы</text>
+		<text>Увімкнути контактор. Подати живлення на насоси</text>
 	</string>
 	<string id="pump_off">
-		<text>Отключить насосы</text>
+		<text>Вимкнути насоси</text>
 	</string>
 	<string id="pump_start">
-		<text>Включить насосы</text>
+		<text>Увімкнути насоси</text>
 	</string>
 	<string id="pump_stop">
-		<text>Отключить насосы</text>
+		<text>Вимкнути насоси</text>
 	</string>
 	<string id="koster">
-		<text>Разжечь костёр</text>
+		<text>Розвести багаття</text>
 	</string>
 	<string id="candle">
-		<text>Зажечь лампу</text>
+		<text>Запалити лампу</text>
 	</string>
 	<string id="tiski_rep">
-		<text>Ремонтировать?</text>
+		<text>Ремонтувати?</text>
 	</string>
 	<string id="to_aes">
-		<text>На ЧАЭС</text>
+		<text>На ЧАЕС</text>
 	</string>
 	<string id="to_agroprom">
-		<text>На Агропром</text>
+		<text>На агропром</text>
 	</string>
 	<string id="to_agroprom_underground">
-		<text>В Катакомбы</text>
+		<text>У Катакомби</text>
 	</string>
 	<string id="to_bar">
-		<text>В Бар</text>
+		<text>У Бар</text>
 	</string>
 	<string id="to_darkvalley">
-		<text>В Тёмную долину</text>
+		<text>У Темну долину</text>
 	</string>
 	<string id="to_deadcity">
-		<text>В Райцентр</text>
+		<text>У Райцентр</text>
 	</string>
 	<string id="to_escape">
-		<text>На Кордон</text>
+		<text>На кордон</text>
 	</string>
 	<string id="to_garbage">
-		<text>На Свалку</text>
+		<text>На Сміттєзвалище</text>
 	</string>
 	<string id="to_military">
-		<text>На Склады</text>
+		<text>На склади</text>
 	</string>
 	<string id="to_pripyat">
-		<text>В Припять</text>
+		<text>У Прип&apos;ять</text>
 	</string>
 	<string id="to_radar">
-		<text>К "Выжигателю мозгов"</text>
+		<text>До &quot;Випалювача мозку&quot;</text>
 	</string>
 	<string id="to_rostok">
-		<text>На Дикую территорию</text>
+		<text>На Дику територію</text>
 	</string>
 	<string id="to_yantar">
-		<text>На Янтарь</text>
+		<text>На бурштин</text>
 	</string>
 	<string id="to_x12">
-		<text>Где-то тут вход в Х-12</text>
+		<text>Десь тут вхід у Х-12</text>
 	</string>
 	<string id="st_helmet_countdown">
-		<text>Отключение защиты</text>
+		<text>Вимкнення захисту</text>
 	</string>
 	<string id="st_psy_danger">
-		<text>Критический уровень пси-излучения. Немедленно покиньте опасную зону.</text>
+		<text>Критичний рівень псі-випромінювання. Негайно залиште небезпечну зону.</text>
 	</string>
 	<string id="st_radiation_danger">
-		<text>Опасный уровень радиации. Необходима защита, чтобы пройти.</text>
+		<text>Небезпечний рівень радіації. Потрібний захист, щоб пройти.</text>
 	</string>
 	<string id="st_found_new_pda">
-		<text>Найдена информация: </text>
+		<text>Знайдено інформацію:</text>
 	</string>
 	<string id="pesh_button1">
-		<text>Активировать</text>
+		<text>Активувати</text>
 	</string>
 	<string id="to_x16">
-		<text>Где-то тут вход в Х-16</text>
+		<text>Десь тут вхід у Х-16</text>
 	</string>
 	<string id="to_labx8">
-		<text>Где-то тут вход в бункер управления "Выжигателем мозгов"</text>
-	</string>																			   
+		<text>Десь тут вхід у бункер управління &quot;Випалювач мізків&quot;</text>
+	</string>
 </string_table>

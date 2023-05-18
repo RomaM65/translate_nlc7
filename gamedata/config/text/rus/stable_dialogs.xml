@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="actor_break_dialog_0">
-		<text>До встречи!</text>
+		<text>До зустрічі!</text>
 	</string>
 	<string id="actor_help_wounded_0">
-		<text>Как ты?</text>
+		<text>Як ти?</text>
 	</string>
 	<string id="actor_help_wounded_100">
-		<text>Хреново мне, не видишь, что ли? Нужна аптечка или хотя бы бинт.</text>
+		<text>Хрінова мені, не бачиш, чи що? Потрібна аптечка чи бодай бинт.</text>
 	</string>
 	<string id="actor_help_wounded_101">
-		<text>Держи аптечку.</text>
+		<text>Тримай аптечку.</text>
 	</string>
 	<string id="actor_help_wounded_102">
-		<text>Спасибо, брат, не забуду.</text>
+		<text>Дякую, брате, не забуду.</text>
 	</string>
 	<string id="actor_help_wounded_201">
-		<text>Держи бинт.</text>
+		<text>Тримай бинт.</text>
 	</string>
 	<string id="actor_help_wounded_301">
-		<text>Извини, ничего нет.</text>
+		<text>Вибач, нічого нема.</text>
 	</string>
 	<string id="actor_help_wounded_302">
-		<text>Как же ты в Зоне ходишь? Зацепит тебя какая-то зараза, а ты даже вылечить себя не сможешь.</text>
+		<text>Як же ти у Зоні ходиш? Зачепить тебе якась зараза, а ти навіть вилікувати себе не зможеш.</text>
 	</string>
 	<string id="actor_help_wounded_401">
-		<text>Хех, что ж ты так? Извини, свои я тебе не дам, иначе сам останусь ни с чем.</text>
+		<text>Хех, що ти так? Вибач, свої я тобі не дам, інакше сам залишусь ні з чим.</text>
 	</string>
 	<string id="actor_help_wounded_402">
-		<text>Твоё дело, но не думай, что это делает тебе чести.</text>
+		<text>Твоя річ, але не думай, що це робить тобі честі.</text>
 	</string>
 	<string id="hello_dialog_101">
-		<text>Привет!</text>
+		<text>Вітання!</text>
 	</string>
 	<string id="hello_dialog_201">
-		<text>Слышь, браток, помоги!</text>
+		<text>Чуєш, братку, допоможи!</text>
 	</string>
 	<string id="hello_dialog_301">
-		<text>Проходи себе...</text>
+		<text>Проходь собі...</text>
 	</string>
 </string_table>

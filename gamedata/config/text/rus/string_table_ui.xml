@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="cant_walk">
-		<text>Не могу больше... Отдохнуть нужно.</text>
+		<text>Не можу більше... Відпочити треба.</text>
 	</string>
 	<string id="cant_walk_weight">
-		<text>Шагу ступить не могу! Тяжело...</text>
+		<text>Кроку ступити не можу! Важко...</text>
 	</string>
 	<string id="dar_poltergeist_hold_the_door">
-		<text>Кто-то или что-то удерживает дверь</text>
+		<text>Хтось чи щось утримує двері</text>
 	</string>
 	<string id="Global Map">
-		<text>Глобальная карта</text>
+		<text>Глобальна карта</text>
 	</string>
 	<string id="gun_jammed">
-		<text>Оружие заклинило. Нужно перезарядить</text>
+		<text>Зброя заклинила. Потрібно перезарядити</text>
 	</string>
 	<string id="water">
-		<text>Набрать воды</text>
+		<text>Набрати води</text>
 	</string>
 	<string id="ground">
-		<text>на асфальте</text>
+		<text>на асфальті</text>
 	</string>
 	<string id="both">
-		<text>на воде и асфальте</text>
+		<text>на воді та асфальті</text>
 	</string>
 	<string id="disabled">
-		<text>выключено</text>
+		<text>вимкнено</text>
 	</string>
 	<string id="default">
-		<text>по умолчанию</text>
+		<text>за замовчуванням</text>
 	</string>
 	<string id="hdao">
 		<text>HDAO</text>
@@ -37,70 +37,70 @@
 		<text>HBAO</text>
 	</string>
 	<string id="qt_off">
-		<text>выключено</text>
+		<text>вимкнено</text>
 	</string>
 	<string id="qt_low">
-		<text>низкое(рекомендуется)</text>
+		<text>низька (рекомендується)</text>
 	</string>
 	<string id="qt_high">
-		<text>высокое</text>
+		<text>висока</text>
 	</string>
 	<string id="inventory_box_use">
-		<text>Проверить ящик</text>
+		<text>Перевірити скриньку</text>
 	</string>
 	<string id="Local Map">
-		<text>Локальная карта</text>
+		<text>Локальна картка</text>
 	</string>
 	<string id="st_game_saved">
-		<text>Игра сохранена</text>
+		<text>Гра збережена</text>
 	</string>
 	<string id="tip_car_locked">
-		<text>Заблокировано</text>
+		<text>Заблоковано</text>
 	</string>
 	<string id="tip_car_use">
-		<text>Открыть</text>
+		<text>Відкрити</text>
 	</string>
 	<string id="tip_door_close">
-		<text>Закрыть</text>
+		<text>Закрити</text>
 	</string>
 	<string id="tip_door_coded">
-		<text>Дверь закодирована</text>
+		<text>Двері закодовані</text>
 	</string>
 	<string id="tip_door_decode">
-		<text>Декодировать дверь</text>
+		<text>Декодувати двері</text>
 	</string>
 	<string id="tip_door_decoding">
-		<text>Идёт процесс декодирования</text>
+		<text>Йде процес декодування</text>
 	</string>
 	<string id="tip_door_locked">
-		<text>Заперто</text>
+		<text>Замкнено</text>
 	</string>
 	<string id="tip_door_open">
-		<text>Открыть</text>
+		<text>Відкрити</text>
 	</string>
 	<string id="tip_gate_close">
-		<text>Закрыть ворота</text>
+		<text>Закрити ворота</text>
 	</string>
 	<string id="tip_gate_locked">
-		<text>Ворота заблокированы</text>
+		<text>Ворота заблоковані</text>
 	</string>
 	<string id="tip_gate_open">
-		<text>Открыть ворота</text>
+		<text>Відкрити ворота</text>
 	</string>
 	<string id="on_pribor">
-		<text>Включить</text>
+		<text>увімкнути</text>
 	</string>
 	<string id="off_pribor">
-		<text>Выключить</text>
+		<text>Вимкнути</text>
 	</string>
 	<string id="open">
-		<text>Открыть</text>
+		<text>Відкрити</text>
 	</string>
 	<string id="take_card">
-		<text>Взять карту с данными</text>
+		<text>Взяти карту з даними</text>
 	</string>
 	<string id="tip_monolith">
-		<text>Загадать желание</text>
+		<text>Загадати бажання</text>
 	</string>
 	<string id="st_demo_play">
 		<text>AMK MOD 1.4.1</text>

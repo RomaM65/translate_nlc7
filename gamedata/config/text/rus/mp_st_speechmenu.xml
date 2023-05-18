@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="speech_attack">
-		<text>Все в атаку!</text>
+		<text>Усі в атаку!</text>
 	</string>
 	<string id="speech_covermeartifact">
-		<text>Беру артефакт! Прикройте!</text>
+		<text>Беру артефакт! Прикрийте!</text>
 	</string>
 	<string id="speech_followme">
-		<text>За мной!</text>
+		<text>За мною!</text>
 	</string>
 	<string id="speech_guardartifact">
-		<text>Охраняем арефакт. Пока не берём!</text>
+		<text>Охороняємо арефакт. Поки що не беремо!</text>
 	</string>
 	<string id="speech_holdingpos">
-		<text>Остаюсь на позиции.</text>
+		<text>Залишаюся на позиції.</text>
 	</string>
 	<string id="speech_holdpos">
-		<text>Держим позицию!</text>
+		<text>Тримаємо позицію!</text>
 	</string>
 	<string id="speech_icoverartifact">
-		<text>Берите артефакт! Я прикрою.</text>
+		<text>Беріть артефакт! Я прикрию.</text>
 	</string>
 	<string id="speech_needhelp">
-		<text>Нужна помощь!</text>
+		<text>Потрібна допомога!</text>
 	</string>
 	<string id="speech_needmoney">
-		<text>Нет денег, купите экипировку.</text>
+		<text>Немає грошей, купіть екіпірування.</text>
 	</string>
 	<string id="speech_no">
-		<text>Нет.</text>
+		<text>Ні.</text>
 	</string>
 	<string id="speech_noenemy">
-		<text>Никого поблизости.</text>
+		<text>Нікого поблизу.</text>
 	</string>
 	<string id="speech_report">
-		<text>Доложите ситуацию!</text>
+		<text>Доповісти ситуацію!</text>
 	</string>
 	<string id="speech_retreat">
-		<text>Отступаем!</text>
+		<text>Відступаємо!</text>
 	</string>
 	<string id="speech_roger">
-		<text>Вас понял.</text>
+		<text>Вас зрозумів.</text>
 	</string>
 	<string id="speech_silence">
-		<text>Заткнитесь!!!</text>
+		<text>Заткніться!</text>
 	</string>
 	<string id="speech_sticktogether">
-		<text>Держимся вместе.</text>
+		<text>Тримаємося разом.</text>
 	</string>
 	<string id="speech_takeartifact">
-		<text>Берём артефакт!</text>
+		<text>Беремо артефакт!</text>
 	</string>
 </string_table>

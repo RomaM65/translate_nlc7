@@ -1,326 +1,282 @@
 	<string id="unknown_monster">
-		<text>Неизвестный науке мутант</text>
+		<text>Невідомий науці мутант</text>
 	</string>
-
 	<string id="fracture_weak">
-		<text>Излом</text>
+		<text>Злам</text>
 	</string>
 	<string id="fracture_normal">
-		<text>Матёрый излом</text>
+		<text>Материй злам</text>
 	</string>
 	<string id="fracture_strong">
-		<text>Злобный излом</text>
+		<text>Злісний злам</text>
 	</string>
-
 	<string id="crow">
 		<text>Ворона</text>
 	</string>
-
 	<string id="rat_weak">
-		<text>Крыса</text>
+		<text>Пацюк</text>
 	</string>
 	<string id="rat_mad_wery_strong">
-		<text>Бешеная крыса</text>
+		<text>Шалений щур</text>
 	</string>
-
 	<string id="tushkano_normal">
 		<text>Тушкан</text>
 	</string>
 	<string id="tushkano_strong">
-		<text>Матёрый тушкан</text>
+		<text>Материй тушкан</text>
 	</string>
 	<string id="electro_tushkano_normal">
-		<text>Электротушкан</text>
+		<text>Електротушкан</text>
 	</string>
-
 	<string id="dog_weak">
-		<text>Слепой пёс</text>
+		<text>Сліпий пес</text>
 	</string>
 	<string id="dog_normal">
-		<text>Пёс-крысодав</text>
+		<text>Пес-крисодав</text>
 	</string>
 	<string id="dog_strong">
-		<text>Собака-альбинос</text>
+		<text>Собака-альбінос</text>
 	</string>
-<!--	<string id="dog_sak">
-		<text>Дикий пёс</text>
-	</string>-->
-
 	<string id="boar_weak">
-		<text>Молодой кабан</text>
+		<text>Молодий кабан</text>
 	</string>
 	<string id="boar_normal">
-		<text>Взрослый кабан</text>
+		<text>Дорослий кабан</text>
 	</string>
 	<string id="boar_strong">
-		<text>Матёрый кабан</text>
+		<text>Материй кабан</text>
 	</string>
-
 	<string id="pseudodog_weak">
-		<text>Псевдособака</text>
+		<text>Псевдоособака</text>
 	</string>
 	<string id="pseudodog_normal">
-		<text>Матёрая псевдособака</text>
+		<text>Матера псевдоособака</text>
 	</string>
 	<string id="pseudodog_strong">
-		<text>Серая псевдособака</text>
+		<text>Сіра псевдоособака</text>
 	</string>
-<!--	<string id="psy_dog">
-		<text>Сумеречная псевдособака</text>
-	</string>-->
 	<string id="psy_dog_radar">
 		<text>Пси-собака</text>
 	</string>
-
 	<string id="cat_weak">
-		<text>Молодой кот</text>
+		<text>Молодий кіт</text>
 	</string>
 	<string id="cat_normal">
-		<text>Кот</text>
+		<text>Кіт</text>
 	</string>
 	<string id="cat_strong">
-		<text>Кот-баюн</text>
+		<text>Кіт-баюн</text>
 	</string>
-
 	<string id="flesh_weak">
-		<text>Степная плоть</text>
+		<text>Степове тіло</text>
 	</string>
 	<string id="flesh_normal">
-		<text>Лесная плоть</text>
+		<text>Лісова плоть</text>
 	</string>
 	<string id="flesh_strong">
-		<text>Болотная плоть</text>
+		<text>Болотяне тіло</text>
 	</string>
-
 	<string id="zombie_weak">
-		<text>Зомби</text>
+		<text>Зомбі</text>
 	</string>
 	<string id="zombie_trup">
-		<text>Разложившийся зомби</text>
+		<text>Зомбі, що розклався</text>
 	</string>
 	<string id="zombie_blow">
-		<text>Взрывающийся зомби</text>
+		<text>Вибухаючий зомбі</text>
 	</string>
-
 	<string id="snork_weak">
 		<text>Снорк</text>
 	</string>
 	<string id="snork_normal">
-		<text>Снорк-падальщик</text>
+		<text>Снорк-падальник</text>
 	</string>
 	<string id="snork_strong">
-		<text>Снорк-людоед</text>
+		<text>Снорк-людожер</text>
 	</string>
-
 	<string id="burer_weak">
-		<text>Молодой бюрер</text>
+		<text>Молодий бюрер</text>
 	</string>
 	<string id="burer_normal">
 		<text>Бюрер</text>
 	</string>
 	<string id="burer_strong">
-		<text>Старый бюрер</text>
+		<text>Старий бюрер</text>
 	</string>
 	<string id="burer_hos">
-		<text>Старый злобный бюрер</text>
+		<text>Старий злісний бюрер</text>
 	</string>
-
 	<string id="chimera_weak">
-		<text>Молодая химера</text>
+		<text>Молода химера</text>
 	</string>
 	<string id="chimera_normal">
-		<text>Взрослая химера</text>
+		<text>Доросла химера</text>
 	</string>
 	<string id="chimera_strong">
-		<text>Матёрая химера</text>
+		<text>Матра химера</text>
 	</string>
 	<string id="electro_chimera">
-		<text>Электрохимера</text>
+		<text>Електрохімера</text>
 	</string>
-
 	<string id="controller_weak">
-		<text>Контролёр</text>
+		<text>Контролер</text>
 	</string>
-
 	<string id="bloodsucker_weak">
 		<text>Кровосос</text>
 	</string>
 	<string id="bloodsucker_normal">
-		<text> Болотный кровосос</text>
+		<text>Болотний кровосос</text>
 	</string>
 	<string id="bloodsucker_strong">
-		<text>Чёрный кровосос</text>
+		<text>Чорний кровосос</text>
 	</string>
-
 	<string id="m_poltergeist_normal_tele">
 		<text>Полтергейст</text>
 	</string>
 	<string id="m_poltergeist_normal_flame">
-		<text>Огненный полтергейст</text>
+		<text>Вогненний полтергейст</text>
 	</string>
-<!-- 	<string id="m_poltergeist_strong_flame">
-		<text>Злобный огненный полтергейст</text>
-	</string> -->
-<!-- 	<string id="m_poltergeist_dark_flame">
-		<text>Тёмный огненный полтергейст</text>
-	</string> -->
-
 	<string id="gigant_normal">
-		<text>Псевдогигант</text>
+		<text>Псевдогігант</text>
 	</string>
 	<string id="gigant_strong">
-		<text>Матёрый псевдогигант</text>
+		<text>Материй псевдогігант</text>
 	</string>
-
-
-
 	<string id="unknown_stalker">
-		<text>Неизвестное науке существо</text>
+		<text>Невідома наука істота</text>
 	</string>
-
 	<string id="zombied_novice">
-		<text>Зомбированный, новичок</text>
+		<text>Зомбований, новачок</text>
 	</string>
 	<string id="zombied_experienced">
-		<text>Зомбированный, опытный</text>
+		<text>Зомбований, досвідчений</text>
 	</string>
 	<string id="zombied_veteran">
-		<text>Зомбированный, ветеран</text>
+		<text>Зомбований, ветеран</text>
 	</string>
 	<string id="zombied_master">
-		<text>Зомбированный, мастер</text>
+		<text>Зомбований, майстер</text>
 	</string>
-
 	<string id="stalker_novice">
-		<text>Сталкер, новичок</text>
+		<text>Сталкер, новачок</text>
 	</string>
 	<string id="stalker_experienced">
-		<text>Сталкер, опытный</text>
+		<text>Сталкер, досвідчений</text>
 	</string>
 	<string id="stalker_veteran">
 		<text>Сталкер, ветеран</text>
 	</string>
 	<string id="stalker_master">
-		<text>Сталкер, мастер</text>
+		<text>Сталкер, майстер</text>
 	</string>
-
 	<string id="stranger_novice">
-		<text>Одиночка, новичок</text>
+		<text>Одинак, новачок</text>
 	</string>
 	<string id="stranger_experienced">
-		<text>Одиночка, опытный</text>
+		<text>Одинак, досвідчений</text>
 	</string>
 	<string id="stranger_veteran">
-		<text>Одиночка, ветеран</text>
+		<text>Одинак, ветеран</text>
 	</string>
 	<string id="stranger_master">
-		<text>Одиночка, мастер</text>
+		<text>Одинак, майстер</text>
 	</string>
-
 	<string id="green_novice">
-		<text>Охотник, новичок</text>
+		<text>Мисливець, новачок</text>
 	</string>
 	<string id="green_experienced">
-		<text>Охотник, опытный</text>
+		<text>Мисливець, досвідчений</text>
 	</string>
 	<string id="green_veteran">
-		<text>Охотник, ветеран</text>
+		<text>Мисливець, ветеран</text>
 	</string>
 	<string id="green_master">
-		<text>Охотник, мастер</text>
+		<text>Мисливець, майстер</text>
 	</string>
-
 	<string id="dolg_novice">
-		<text>"Долг", новичок</text>
+		<text>&quot;Борг&quot;, новачок</text>
 	</string>
 	<string id="dolg_experienced">
-		<text>"Долг", опытный</text>
+		<text>&quot;Борг&quot;, досвідчений</text>
 	</string>
 	<string id="dolg_veteran">
-		<text>"Долг", ветеран</text>
+		<text>&quot;Борг&quot;, ветеран</text>
 	</string>
 	<string id="dolg_master">
-		<text>"Долг", мастер</text>
+		<text>&quot;Борг&quot;, майстер</text>
 	</string>
-
 	<string id="ecolog_novice">
-		<text>Учёный, новичок</text>
+		<text>Вчений, новачок</text>
 	</string>
 	<string id="ecolog_experienced">
-		<text>Учёный, опытный</text>
+		<text>Вчений, досвідчений</text>
 	</string>
 	<string id="ecolog_veteran">
-		<text>Учёный, ветеран</text>
+		<text>Вчений, ветеран</text>
 	</string>
 	<string id="ecolog_master">
-		<text>Учёный, мастер</text>
+		<text>Вчений, майстер</text>
 	</string>
-
 	<string id="freedom_novice">
-		<text>"Свобода", новичок</text>
+		<text>&quot;Свобода&quot;, новачок</text>
 	</string>
 	<string id="freedom_experienced">
-		<text>"Свобода", опытный</text>
+		<text>&quot;Свобода&quot;, досвідчений</text>
 	</string>
 	<string id="freedom_veteran">
-		<text>"Свобода", ветеран</text>
+		<text>&quot;Свобода&quot;, ветеран</text>
 	</string>
 	<string id="freedom_master">
-		<text>"Свобода", мастер</text>
+		<text>&quot;Свобода&quot;, майстер</text>
 	</string>
-
 	<string id="trader">
-		<text>Торговец</text>
+		<text>Продавець</text>
 	</string>
-
 	<string id="killer_novice">
-		<text>Наёмник, новичок</text>
+		<text>Найманець, новачок</text>
 	</string>
 	<string id="killer_experienced">
-		<text>Наёмник, опытный</text>
+		<text>Найманець, досвідчений</text>
 	</string>
 	<string id="killer_veteran">
-		<text>Наёмник, ветеран</text>
+		<text>Найманець, ветеран</text>
 	</string>
 	<string id="killer_master">
-		<text>Наёмник, мастер</text>
+		<text>Найманець, майстер</text>
 	</string>
-
 	<string id="bandit_novice">
-		<text>Бандит, новичок</text>
+		<text>Бандит, новачок</text>
 	</string>
 	<string id="bandit_experienced">
-		<text>Бандит, опытный</text>
+		<text>Бандит, досвідчений</text>
 	</string>
 	<string id="bandit_veteran">
 		<text>Бандит, ветеран</text>
 	</string>
 	<string id="bandit_master">
-		<text>Бандит, мастер</text>
+		<text>Бандит, майстер</text>
 	</string>
-
 	<string id="military_novice">
-		<text>Военный, рядовой</text>
+		<text>Військовий, рядовий</text>
 	</string>
 	<string id="military_experienced">
-		<text>Военный, сержант</text>
+		<text>Військовий, сержант</text>
 	</string>
 	<string id="military_veteran">
-		<text>Военный, лейтенант</text>
+		<text>Військовий, лейтенант</text>
 	</string>
 	<string id="military_master">
-		<text>Военный, капитан</text>
+		<text>Військовий, капітан</text>
 	</string>
-
 	<string id="monolith_novice">
-		<text>"Монолит", новичок</text>
+		<text>&quot;Моноліт&quot;, новачок</text>
 	</string>
 	<string id="monolith_experienced">
-		<text>"Монолит", опытный</text>
+		<text>&quot;Моноліт&quot;, досвідчений</text>
 	</string>
 	<string id="monolith_veteran">
-		<text>"Монолит", ветеран</text>
+		<text>&quot;Моноліт&quot;, ветеран</text>
 	</string>
 	<string id="monolith_master">
-		<text>"Монолит", мастер</text>
+		<text>&quot;Моноліт&quot;, майстер</text>
 	</string>
